@@ -1,7 +1,7 @@
 # DynamoRefineryWorkshop
 
 
-# Learning resources:
+## Learning resources:
 Refinery Primer (just released):<br/>
 https://refineryprimer.dynamobim.org/<br/>
 https://github.com/DynamoDS/RefineryPrimer<br/>
@@ -13,5 +13,5 @@ https://github.com/DynamoDS/RefineryToolkits<br/>
 Dynamo Primer:<br/>
 https://primer.dynamobim.org/<br/>
 
-# Case studies:<br/>
+## Case studies:<br/>
 https://dynamobim.org/london-hackathon-stealthy-roofscapes/<br/>
