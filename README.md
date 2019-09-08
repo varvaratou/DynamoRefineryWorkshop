@@ -2,7 +2,7 @@
 
 
 ## Learning resources:
-Refinery Primer (just released):<br/>
+Refinery Primer:<br/>
 https://refineryprimer.dynamobim.org/<br/>
 https://github.com/DynamoDS/RefineryPrimer<br/>
 
