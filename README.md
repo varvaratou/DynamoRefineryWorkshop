@@ -21,6 +21,6 @@ https://www.keanw.com/2019/03/the-space-analysis-package-for-dynamo-and-refinery
 Stealthy Roofscapes (UK Dynamo User Group’s Dynamo + Generative Design Hackathon 2019)<br/>
 https://dynamobim.org/london-hackathon-stealthy-roofscapes/<br/>
 <br/>
-Recreation of Project Discover for Dynamo 
-https://www.keanw.com/2019/06/project-rediscover-is-now-available-for-download.html
-https://www.autodeskresearch.com/projects/project-discover
+Recreation of Project Discover for Dynamo <br/>
+https://www.keanw.com/2019/06/project-rediscover-is-now-available-for-download.html<br/>
+https://www.autodeskresearch.com/projects/project-discover<br/>
