@@ -2,7 +2,7 @@
   "Uuid": "7793e387-87b6-49b5-b156-9763b31f8a65",
   "IsCustomNode": false,
   "Description": null,
-  "Name": "ThreeSolidTower_01_CreateFloors",
+  "Name": "ThreeSolidTower_01_AddFloorsToMass",
   "ElementResolver": {
     "ResolutionMap": {}
   },
@@ -3432,7 +3432,7 @@
         "Height": 249.3180061698713,
         "FontSize": 48.0,
         "InitialTop": -967.7585040562451,
-        "InitialHeight": 202.10991891635967,
+        "InitialHeight": 233.8180061698713,
         "TextblockHeight": 57.5,
         "Background": "#FFB9F9E1"
       },
@@ -3548,7 +3548,7 @@
         "Height": 231.33536292557073,
         "FontSize": 48.0,
         "InitialTop": -865.17862114804711,
-        "InitialHeight": 193.83536292557073,
+        "InitialHeight": 189.83536292557073,
         "TextblockHeight": 57.5,
         "Background": "#FFFFAA45"
       },
@@ -3566,7 +3566,7 @@
         "Height": 297.66692015824128,
         "FontSize": 48.0,
         "InitialTop": -542.33620285238851,
-        "InitialHeight": 202.66692015824128,
+        "InitialHeight": 224.66692015824128,
         "TextblockHeight": 115.0,
         "Background": "#FF48B9FF"
       },
@@ -3589,13 +3589,133 @@
         "Height": 444.60680924007829,
         "FontSize": 48.0,
         "InitialTop": -539.18173738106293,
-        "InitialHeight": 367.4899866654,
+        "InitialHeight": 429.10680924007829,
         "TextblockHeight": 57.5,
         "Background": "#FFB9F9E1"
+      },
+      {
+        "Id": "5d1d2677cc8746d291f266d41bbb891b",
+        "Title": "ThreeSolidTower_01\r\nAdd Floors to Mass",
+        "Nodes": [
+          "0d17ed5b8e4d4635b14489109a747e2a",
+          "b38fb6edd8d64074af6235ea3b886454",
+          "e44a9bd5b3544050a07d8312bf601b39",
+          "8a240faf831140048d83ba0de254ee8e",
+          "239f19cf509a47fb881e527b7ee60abc",
+          "b03a120c5bf44ef19b6d1148d7dae749",
+          "c6249ef968cd4d75b8647ba001bfa4e3"
+        ],
+        "Left": -1558.2109372447751,
+        "Top": -1714.2274105658223,
+        "Width": 632.23562714206469,
+        "Height": 512.67349609199732,
+        "FontSize": 48.0,
+        "InitialTop": -1589.2274105658223,
+        "InitialHeight": 440.17349609199732,
+        "TextblockHeight": 115.0,
+        "Background": "#FFFFFFFF"
+      },
+      {
+        "Id": "b03a120c5bf44ef19b6d1148d7dae749",
+        "Title": "ADDITIONAL COMMENTS\r\n________________________________________________________\r\n\r\nN/A",
+        "Nodes": [],
+        "Left": -1234.9753101027109,
+        "Top": -1381.5829833445257,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "c6249ef968cd4d75b8647ba001bfa4e3",
+        "Title": "REQUIRED DYNAMO PACKAGES\r\n________________________________________________________\r\n\r\nAmpersand\r\nRefinery Toolkit for Massing\r\nRefinery Toolkit for Space Planning",
+        "Nodes": [],
+        "Left": -1234.9753101027104,
+        "Top": -1499.4094027220267,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "0d17ed5b8e4d4635b14489109a747e2a",
+        "Title": "DYNAMO PROJECT\r\n________________________________________________________\r\n\r\nThreeSolidTower_01_AddFloorsToMass.dyn",
+        "Nodes": [],
+        "Left": -1548.2109372447749,
+        "Top": -1589.2274105658223,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "b38fb6edd8d64074af6235ea3b886454",
+        "Title": "ASSOCIATED FILE(S)      \r\n________________________________________________________\r\n\r\nN/A",
+        "Nodes": [],
+        "Left": -1548.2109372447749,
+        "Top": -1498.8841116447891,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "e44a9bd5b3544050a07d8312bf601b39",
+        "Title": "AUTHOR(S) / CREATION DATE\r\n________________________________________________________\r\n\r\nVarvara Toulkeridou, Refinery Team\r\nvarvara.toulkeridou@autodesk.com\r\nSeptember 2019",
+        "Nodes": [],
+        "Left": -1548.2109372447735,
+        "Top": -1408.5408127237545,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "8a240faf831140048d83ba0de254ee8e",
+        "Title": "DESCRIPTION   \r\n________________________________________________________\r\n\r\nN/A",
+        "Nodes": [],
+        "Left": -1548.2109372447751,
+        "Top": -1289.053914473825,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "239f19cf509a47fb881e527b7ee60abc",
+        "Title": "DYNAMO VERSION\r\n________________________________________________________\r\n\r\n2.0.2+",
+        "Nodes": [],
+        "Left": -1234.9753101027109,
+        "Top": -1588.0659584824932,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
       }
     ],
-    "X": 216.94329486991694,
-    "Y": 453.38495804692968,
-    "Zoom": 0.20713720142787428
+    "X": 322.56365366189215,
+    "Y": 446.50331920826579,
+    "Zoom": 0.1863852313144263
   }
 }

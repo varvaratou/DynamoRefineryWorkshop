@@ -91,22 +91,22 @@
     {
       "Id": "ba5ddba393974cd8a6843e6fa000658e",
       "Name": "WWR",
-      "Type": "float",
-      "InitialValue": "0.25998489184009",
+      "Type": "unknown",
+      "InitialValue": "",
       "Description": "Visualize the output of node."
     },
     {
       "Id": "a0a392c41c2b4656a958cdbdeaeeeda8",
       "Name": "Average exposure on floors",
-      "Type": "float",
-      "InitialValue": "29.4696383283674",
+      "Type": "unknown",
+      "InitialValue": "",
       "Description": "Visualize the output of node."
     },
     {
       "Id": "f13f565c845c4d03b80ad3f7c286df0a",
       "Name": "Average exposure on roof",
-      "Type": "float",
-      "InitialValue": "135.6233220572",
+      "Type": "unknown",
+      "InitialValue": "",
       "Description": "Visualize the output of node."
     }
   ],
@@ -7115,7 +7115,7 @@
         "IsSetAsInput": false,
         "IsSetAsOutput": false,
         "Excluded": false,
-        "X": -12675.95901196436,
+        "X": -12691.742340780478,
         "Y": -7148.4367275559862
       },
       {
@@ -7773,7 +7773,7 @@
         "Height": 338.71163325061752,
         "FontSize": 48.0,
         "InitialTop": -6079.636697127331,
-        "InitialHeight": 233.8180061698713,
+        "InitialHeight": 265.71163325061752,
         "TextblockHeight": 115.0,
         "Background": "#FFB9F9E1"
       },
@@ -7821,7 +7821,7 @@
         "Height": 285.73865498991927,
         "FontSize": 48.0,
         "InitialTop": -5774.1819414188649,
-        "InitialHeight": 392.11814910758312,
+        "InitialHeight": 295.23865498991927,
         "TextblockHeight": 57.5,
         "Background": "#FFB9F9E1"
       },
@@ -7840,7 +7840,7 @@
         ],
         "Left": -1383.5339315768883,
         "Top": -5502.7736926345833,
-        "Width": 1286.8026634196385,
+        "Width": 1218.3026634196385,
         "Height": 354.38704536684872,
         "FontSize": 48.0,
         "InitialTop": -5435.2736926345833,
@@ -7911,7 +7911,7 @@
         "Height": 588.19023518136783,
         "FontSize": 48.0,
         "InitialTop": -6795.9597916249022,
-        "InitialHeight": 616.8203888911039,
+        "InitialHeight": 546.69023518136783,
         "TextblockHeight": 57.5,
         "Background": "#FFFFC999"
       },
@@ -7929,7 +7929,7 @@
         "Height": 322.45719844861014,
         "FontSize": 36.0,
         "InitialTop": -6421.2817162665751,
-        "InitialHeight": 145.78488177013969,
+        "InitialHeight": 243.45719844861014,
         "TextblockHeight": 43.0,
         "Background": "#FFFFC999"
       },
@@ -7943,7 +7943,7 @@
         "Left": 96.020163181906355,
         "Top": -6138.2128835208559,
         "Width": 479.05413883800884,
-        "Height": 205.5,
+        "Height": 189.52791650937797,
         "FontSize": 36.0,
         "InitialTop": -6041.7128835208559,
         "InitialHeight": 145.02791650937797,
@@ -7963,7 +7963,7 @@
         "Height": 168.9674297866577,
         "FontSize": 36.0,
         "InitialTop": -6887.9649298991562,
-        "InitialHeight": 153.44672911922953,
+        "InitialHeight": 158.9674297866577,
         "TextblockHeight": 43.0,
         "Background": "#FFFFC999"
       },
@@ -7986,7 +7986,7 @@
         "Height": 594.1988470225433,
         "FontSize": 48.0,
         "InitialTop": -7753.2478838276065,
-        "InitialHeight": 553.87659169807557,
+        "InitialHeight": 511.93666749404474,
         "TextblockHeight": 57.5,
         "Background": "#FFFFC999"
       },
@@ -8000,7 +8000,7 @@
         "Left": 104.29954518432623,
         "Top": -7205.6798245935051,
         "Width": 475.97073380648,
-        "Height": 205.5,
+        "Height": 190.16067651846697,
         "FontSize": 36.0,
         "InitialTop": -7109.1798245935051,
         "InitialHeight": 145.66067651846697,
@@ -8063,7 +8063,7 @@
         "Height": 308.31554872346533,
         "FontSize": 48.0,
         "InitialTop": -6671.431983456594,
-        "InitialHeight": 281.71479767296023,
+        "InitialHeight": 282.23012156858476,
         "TextblockHeight": 57.5,
         "Background": "#FFB9F9E1"
       },
@@ -8098,7 +8098,7 @@
           "eb29fa7629424d5c8f2621fe8b62641e",
           "f02361d1204943018dc97d65a174608e"
         ],
-        "Left": -12986.43998419616,
+        "Left": -13002.223313012279,
         "Top": -7331.4367275559862,
         "Width": 488.98097223180048,
         "Height": 302.5,
@@ -8157,7 +8157,7 @@
         "Height": 378.999371266269,
         "FontSize": 48.0,
         "InitialTop": -6119.78038650366,
-        "InitialHeight": 305.99937126626992,
+        "InitialHeight": 305.999371266269,
         "TextblockHeight": 115.0,
         "Background": "#FFFFC999"
       },
@@ -8237,7 +8237,7 @@
         "Height": 259.994922989893,
         "FontSize": 36.0,
         "InitialTop": -6061.7928167217369,
-        "InitialHeight": 194.261335055106,
+        "InitialHeight": 258.994922989893,
         "TextblockHeight": 43.0,
         "Background": "#FF48B9FF"
       },
@@ -8253,9 +8253,31 @@
         "Height": 193.0,
         "FontSize": 48.0,
         "InitialTop": -5568.940857103531,
-        "InitialHeight": 98.0,
+        "InitialHeight": 145.0,
         "TextblockHeight": 115.0,
         "Background": "#FFFFB8D8"
+      },
+      {
+        "Id": "45cd1e7c7926460382036a4b8c5fc3a5",
+        "Title": "ThreeSolidTower_04\r\nSolar Analysis",
+        "Nodes": [
+          "9ccbc53527194a74b862c1ff5b5ff74d",
+          "99c687e827514e5fa0aba2a9305cb495",
+          "cf87ac1d37b34782bd4c92e7d8e28734",
+          "7dd8917c3f5741fa90d838627ff2d541",
+          "50d0156cca294a5aa357cc58f2f96b93",
+          "d299672c263343abad95ed0e8a0ffc43",
+          "f69a2b129a5448fea69b8ce5ded6828d"
+        ],
+        "Left": -13773.678189267341,
+        "Top": -7330.1672599008125,
+        "Width": 632.95305117916178,
+        "Height": 528.456824908114,
+        "FontSize": 48.0,
+        "InitialTop": -7205.1672599008125,
+        "InitialHeight": 440.17349609199664,
+        "TextblockHeight": 115.0,
+        "Background": "#FFFFFFFF"
       },
       {
         "Id": "ef9144a3b22248aa9aecb158a374e70a",
@@ -8275,8 +8297,106 @@
         "Id": "f02361d1204943018dc97d65a174608e",
         "Title": "Select a Revit mass representing the urban context.",
         "Nodes": [],
-        "Left": -12976.43998419616,
+        "Left": -12992.223313012279,
         "Top": -7110.8888584380165,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "d299672c263343abad95ed0e8a0ffc43",
+        "Title": "ADDITIONAL COMMENTS\r\n________________________________________________________\r\n\r\nN/A",
+        "Nodes": [],
+        "Left": -13450.442562125276,
+        "Top": -6984.6092000117833,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "f69a2b129a5448fea69b8ce5ded6828d",
+        "Title": "REQUIRED DYNAMO PACKAGES\r\n________________________________________________________\r\n\r\nAmpersand\r\nRefinery Toolkit for Massing\r\nRefinery Toolkit for Space Planning\r\nSolar Analysis for Dynamo",
+        "Nodes": [],
+        "Left": -13449.725138088179,
+        "Top": -7115.349252057018,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "9ccbc53527194a74b862c1ff5b5ff74d",
+        "Title": "DYNAMO PROJECT\r\n________________________________________________________\r\n\r\nThreeSolidTower_04_SolarAnalysis.dyn",
+        "Nodes": [],
+        "Left": -13762.960765230244,
+        "Top": -7205.1672599008125,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "99c687e827514e5fa0aba2a9305cb495",
+        "Title": "ASSOCIATED FILE(S)      \r\n________________________________________________________\r\n\r\nUrbanContextWithPark.rvt",
+        "Nodes": [],
+        "Left": -13762.960765230244,
+        "Top": -7114.8239609797783,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "cf87ac1d37b34782bd4c92e7d8e28734",
+        "Title": "AUTHOR(S) / CREATION DATE\r\n________________________________________________________\r\n\r\nVarvara Toulkeridou, Refinery Team\r\nvarvara.toulkeridou@autodesk.com\r\nVina Rahimian, Penn State \r\nSeptember 2019",
+        "Nodes": [],
+        "Left": -13762.960765230242,
+        "Top": -7024.4806620587433,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "7dd8917c3f5741fa90d838627ff2d541",
+        "Title": "DESCRIPTION   \r\n________________________________________________________\r\n\r\nN/A",
+        "Nodes": [],
+        "Left": -13763.678189267341,
+        "Top": -6889.2104349926985,
+        "Width": 0.0,
+        "Height": 0.0,
+        "FontSize": 36.0,
+        "InitialTop": 0.0,
+        "InitialHeight": 0.0,
+        "TextblockHeight": 0.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "50d0156cca294a5aa357cc58f2f96b93",
+        "Title": "DYNAMO VERSION\r\n________________________________________________________\r\n\r\n2.0.2+",
+        "Nodes": [],
+        "Left": -13449.725138088179,
+        "Top": -7204.0058078174843,
         "Width": 0.0,
         "Height": 0.0,
         "FontSize": 36.0,
@@ -8286,8 +8406,8 @@
         "Background": "#FFC1D676"
       }
     ],
-    "X": 6200.1800206517082,
-    "Y": 3607.0509117965,
-    "Zoom": 0.51424651162074841
+    "X": 9616.5209335966483,
+    "Y": 5164.2723803292783,
+    "Zoom": 0.69693789745844259
   }
 }
